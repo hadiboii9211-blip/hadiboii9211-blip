@@ -1,16 +1,39 @@
-## Hi there 👋
+# Abdul Hadi
 
-<!--
-**hadiboii9211-blip/hadiboii9211-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+Hi there! I'm **Abdul Hadi**, a passionate Computer Science student focused on **web development** and **problem-solving**. I enjoy building web-based systems and am currently seeking opportunities to enhance my technical skills through internships.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact Me
+- 📧 Email: hadi232201037@gmail.com  
+- 📱 Phone: +92-342-5638353  
+- 💼 LinkedIn: [Abdul Hadi](#)  
+
+---
+
+## 🎓 Education
+**BS in Computer Science**  
+*KICSIT*  
+📅 2024 – Present  
+
+I am currently pursuing my degree in Computer Science, building a strong foundation in programming, algorithms, and software development.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:**  
+Python, C, C++
+
+**Web Development:**  
+HTML, CSS, JavaScript, Flask
+
+**Databases:**  
+MySQL, MongoDB
+
+**Tools:**  
+Git, VS Code, XAMPP, Postman
+
+---
+
